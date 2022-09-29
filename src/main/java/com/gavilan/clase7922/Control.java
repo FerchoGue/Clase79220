@@ -69,7 +69,7 @@ public class Control extends HttpServlet {
             out.println("<title>respuesta1</title>");
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>El domiciolio llegò: " + n + " " + a + "</h1>");
+            out.println("<h1>holi El domiciolio llegó: " + n + " " + a + "</h1>");
             out.println("<h1>esta es un respuesta control</h1>");
             out.println("</body>");
             out.println("</html>");

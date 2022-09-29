@@ -12,8 +12,7 @@
         <title>Pag 1</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
-        <h2>!!!</h2>
+        <h1>Mi pagina WEb :)</h1>
         <a href="Control">verificar sevelt objeto response</a>
         
         <form action="Control" method="get">
@@ -24,7 +23,9 @@
             <input type="submit" name="btn_registrar" value="Registrar"/>
         </form>
             
-            
+        <footer style="background-color: blue; width: 40px; height: 100%">
+            <p>Luis fernando guerrero :c</p>
+        </footer>
     </body>
 
 </html>
